@@ -59,7 +59,7 @@ app.layout = html.Div(
     [Input('region-dropdown', 'value')]
 )
 def update_graphs(selected_region):
-    filtered_df = df[df['Region'] == selected_region]
+    filtered_df = df[df.loc[:,'Region'] == selected_region]
 
     # Sales by region
     sales_by_region = px.scatter(df,
@@ -71,8 +71,8 @@ def update_graphs(selected_region):
     #                          title='Sales by Country')
 
     # Monthly sales trend
-    filtered_df['Month'] = filtered_df['Date'].dt.to_period('M').astype('string')
-    monthly_sales = px.scatter(filtered_df.groupby('Month')['Sales'].sum().reset_index(),
+    filtered_df.loc[:,'Month'] = filtered_df['Date'].dt.to_period('M').astype('string')
+    monthly_sales = px.scatter(filtered_df.groupby(['Month'])['Sales'].sum().reset_index(),
                             x='Month', y='Sales',
                             color="Month", size='Sales',
                             hover_data=['Sales'],
