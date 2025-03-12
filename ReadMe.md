@@ -40,8 +40,8 @@ Global_Sales_Dashboard/
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/your-username/Global_Sales_Dashboard.git
-cd Global_Sales_Dashboard
+git clone https://github.com/segdfbn/sales_analysis.git
+cd sales_analysis
 ```
 
 2. **Create a virtual environment:**
@@ -55,16 +55,25 @@ source venv/bin/activate   # On Windows use: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-4. **Run the dashboard:**
+4.**Replace the sale data file:**
+replace this line:
 ```bash
-python src/dashboard.py
+df = pd.read_csv(os.path.join(os.path.dirname(__file__),'../data/sales_data.csv')) 
+```
+by
+```bash
+df = pd.read_csv('/path/to/your/csv/file')
 ```
 
-5. **Explore the Jupyter notebook (optional):**
+5. **Run the dashboard:**
 ```bash
-jupyter notebook notebooks/analysis.ipynb
+python src/app.py
 ```
+the, go to the browser and write this link:
 
+```bash
+https://localhost:8050/
+```
 ---
 
 ## 📊 **Data**
@@ -99,7 +108,4 @@ Examples of visualizations:
 
 For any questions or suggestions, feel free to reach out via [LinkedIn](your-linkedin-url) or open an issue in this repo.
 
----
-
-**Showcase your data skills with this interactive dashboard — happy coding!** ✨
 

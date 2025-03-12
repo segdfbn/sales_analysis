@@ -1,101 +1,101 @@
-Date,Region,Country,Product,Price,Quantity_Sold,Sales
-2023-01-01,Asia,Japan,Product C,42,76,3192
-2023-01-02,South America,Germany,Product D,10,76,760
-2023-01-03,North America,Germany,Product C,28,275,7700
-2023-01-04,Asia,Brazil,Product A,11,70,770
-2023-01-05,Asia,Germany,Product D,35,79,2765
-2023-01-06,South America,Germany,Product A,41,146,5986
-2023-01-07,North America,Germany,Product D,15,77,1155
-2023-01-08,North America,Brazil,Product D,41,160,6560
-2023-01-09,Asia,Germany,Product B,13,241,3133
-2023-01-10,Europe,Japan,Product A,20,274,5480
-2023-01-11,Asia,Brazil,Product C,26,246,6396
-2023-01-12,Asia,Japan,Product C,47,110,5170
-2023-01-13,Asia,Brazil,Product A,33,97,3201
-2023-01-14,Asia,Germany,Product C,14,196,2744
-2023-01-15,South America,Japan,Product C,43,53,2279
-2023-01-16,North America,Brazil,Product A,15,84,1260
-2023-01-17,South America,USA,Product D,31,241,7471
-2023-01-18,South America,Germany,Product A,20,98,1960
-2023-01-19,South America,Brazil,Product D,25,66,1650
-2023-01-20,Asia,USA,Product C,42,221,9282
-2023-01-21,Europe,Brazil,Product C,18,269,4842
-2023-01-22,North America,USA,Product C,15,207,3105
-2023-01-23,Europe,Germany,Product B,25,270,6750
-2023-01-24,South America,Japan,Product D,38,95,3610
-2023-01-25,South America,USA,Product B,12,166,1992
-2023-01-26,Europe,Brazil,Product B,29,55,1595
-2023-01-27,Europe,Germany,Product A,45,148,6660
-2023-01-28,Europe,USA,Product B,28,173,4844
-2023-01-29,South America,Brazil,Product A,35,282,9870
-2023-01-30,South America,Brazil,Product A,12,86,1032
-2023-01-31,North America,Brazil,Product B,28,73,2044
-2023-02-01,North America,USA,Product D,29,142,4118
-2023-02-02,South America,USA,Product D,41,290,11890
-2023-02-03,Europe,USA,Product D,16,95,1520
-2023-02-04,Europe,Japan,Product D,42,230,9660
-2023-02-05,North America,USA,Product D,49,144,7056
-2023-02-06,South America,USA,Product B,48,148,7104
-2023-02-07,North America,USA,Product B,27,237,6399
-2023-02-08,North America,Japan,Product C,49,274,13426
-2023-02-09,Asia,USA,Product D,10,165,1650
-2023-02-10,Asia,Brazil,Product B,20,240,4800
-2023-02-11,Asia,USA,Product C,37,262,9694
-2023-02-12,Europe,Brazil,Product D,34,209,7106
-2023-02-13,South America,Brazil,Product A,32,264,8448
-2023-02-14,South America,Brazil,Product C,40,210,8400
-2023-02-15,South America,Japan,Product B,39,116,4524
-2023-02-16,South America,Japan,Product A,44,177,7788
-2023-02-17,Asia,Japan,Product A,16,67,1072
-2023-02-18,Europe,USA,Product A,25,74,1850
-2023-02-19,Europe,Brazil,Product C,35,283,9905
-2023-02-20,Asia,Japan,Product B,11,272,2992
-2023-02-21,Europe,Japan,Product A,10,103,1030
-2023-02-22,Asia,USA,Product D,21,107,2247
-2023-02-23,South America,Japan,Product A,14,116,1624
-2023-02-24,Asia,USA,Product A,46,153,7038
-2023-02-25,South America,Germany,Product C,41,223,9143
-2023-02-26,South America,Japan,Product C,18,73,1314
-2023-02-27,North America,Germany,Product B,44,163,7172
-2023-02-28,Asia,USA,Product D,28,81,2268
-2023-03-01,North America,Brazil,Product C,25,224,5600
-2023-03-02,Asia,Japan,Product A,12,135,1620
-2023-03-03,Asia,USA,Product B,29,200,5800
-2023-03-04,North America,Brazil,Product A,33,243,8019
-2023-03-05,North America,Brazil,Product A,42,176,7392
-2023-03-06,Asia,Germany,Product C,33,204,6732
-2023-03-07,Europe,USA,Product B,20,283,5660
-2023-03-08,South America,Brazil,Product D,17,179,3043
-2023-03-09,North America,Japan,Product D,45,267,12015
-2023-03-10,South America,Japan,Product C,47,66,3102
-2023-03-11,Europe,Germany,Product C,49,153,7497
-2023-03-12,Europe,Brazil,Product B,29,210,6090
-2023-03-13,Europe,USA,Product D,44,186,8184
-2023-03-14,North America,Japan,Product D,34,92,3128
-2023-03-15,Europe,Brazil,Product D,44,295,12980
-2023-03-16,North America,Brazil,Product A,34,225,7650
-2023-03-17,Europe,Germany,Product D,38,88,3344
-2023-03-18,South America,Japan,Product A,27,270,7290
-2023-03-19,South America,Japan,Product B,27,219,5913
-2023-03-20,Asia,USA,Product A,11,296,3256
-2023-03-21,South America,Japan,Product B,44,75,3300
-2023-03-22,Asia,USA,Product D,25,148,3700
-2023-03-23,South America,Japan,Product D,45,99,4455
-2023-03-24,North America,Germany,Product B,42,202,8484
-2023-03-25,South America,Japan,Product C,13,201,2613
-2023-03-26,Asia,USA,Product B,42,62,2604
-2023-03-27,Asia,USA,Product C,23,109,2507
-2023-03-28,Europe,Germany,Product A,30,299,8970
-2023-03-29,North America,Japan,Product A,29,184,5336
-2023-03-30,South America,Japan,Product A,17,106,1802
-2023-03-31,Europe,Germany,Product D,16,85,1360
-2023-04-01,South America,Japan,Product A,12,222,2664
-2023-04-02,South America,Japan,Product C,26,69,1794
-2023-04-03,Europe,USA,Product A,42,114,4788
-2023-04-04,Europe,Japan,Product B,21,57,1197
-2023-04-05,Europe,Japan,Product B,31,287,8897
-2023-04-06,Europe,Germany,Product D,31,193,5983
-2023-04-07,Europe,Germany,Product B,39,191,7449
-2023-04-08,South America,Brazil,Product C,47,253,11891
-2023-04-09,Europe,USA,Product A,47,164,7708
-2023-04-10,North America,Japan,Product D,17,264,4488
+Date,Region,Country,Product,Price,Quantity_Sold
+2023-01-01,Asia,Japan,Product C,42,76
+2023-01-02,South America,Germany,Product D,10,76
+2023-01-03,North America,Germany,Product C,28,275
+2023-01-04,Asia,Brazil,Product A,11,70
+2023-01-05,Asia,Germany,Product D,35,79
+2023-01-06,South America,Germany,Product A,41,146
+2023-01-07,North America,Germany,Product D,15,77
+2023-01-08,North America,Brazil,Product D,41,160
+2023-01-09,Asia,Germany,Product B,13,241
+2023-01-10,Europe,Japan,Product A,20,274
+2023-01-11,Asia,Brazil,Product C,26,246
+2023-01-12,Asia,Japan,Product C,47,110
+2023-01-13,Asia,Brazil,Product A,33,97
+2023-01-14,Asia,Germany,Product C,14,196
+2023-01-15,South America,Japan,Product C,43,53
+2023-01-16,North America,Brazil,Product A,15,84
+2023-01-17,South America,USA,Product D,31,241
+2023-01-18,South America,Germany,Product A,20,98
+2023-01-19,South America,Brazil,Product D,25,66
+2023-01-20,Asia,USA,Product C,42,221
+2023-01-21,Europe,Brazil,Product C,18,269
+2023-01-22,North America,USA,Product C,15,207
+2023-01-23,Europe,Germany,Product B,25,270
+2023-01-24,South America,Japan,Product D,38,95
+2023-01-25,South America,USA,Product B,12,166
+2023-01-26,Europe,Brazil,Product B,29,55
+2023-01-27,Europe,Germany,Product A,45,148
+2023-01-28,Europe,USA,Product B,28,173
+2023-01-29,South America,Brazil,Product A,35,282
+2023-01-30,South America,Brazil,Product A,12,86
+2023-01-31,North America,Brazil,Product B,28,73
+2023-02-01,North America,USA,Product D,29,142
+2023-02-02,South America,USA,Product D,41,290
+2023-02-03,Europe,USA,Product D,16,95
+2023-02-04,Europe,Japan,Product D,42,230
+2023-02-05,North America,USA,Product D,49,144
+2023-02-06,South America,USA,Product B,48,148
+2023-02-07,North America,USA,Product B,27,237
+2023-02-08,North America,Japan,Product C,49,274
+2023-02-09,Asia,USA,Product D,10,165
+2023-02-10,Asia,Brazil,Product B,20,240
+2023-02-11,Asia,USA,Product C,37,262
+2023-02-12,Europe,Brazil,Product D,34,209
+2023-02-13,South America,Brazil,Product A,32,264
+2023-02-14,South America,Brazil,Product C,40,210
+2023-02-15,South America,Japan,Product B,39,116
+2023-02-16,South America,Japan,Product A,44,177
+2023-02-17,Asia,Japan,Product A,16,67
+2023-02-18,Europe,USA,Product A,25,74
+2023-02-19,Europe,Brazil,Product C,35,283
+2023-02-20,Asia,Japan,Product B,11,272
+2023-02-21,Europe,Japan,Product A,10,103
+2023-02-22,Asia,USA,Product D,21,107
+2023-02-23,South America,Japan,Product A,14,116
+2023-02-24,Asia,USA,Product A,46,153
+2023-02-25,South America,Germany,Product C,41,223
+2023-02-26,South America,Japan,Product C,18,73
+2023-02-27,North America,Germany,Product B,44,163
+2023-02-28,Asia,USA,Product D,28,81
+2023-03-01,North America,Brazil,Product C,25,224
+2023-03-02,Asia,Japan,Product A,12,135
+2023-03-03,Asia,USA,Product B,29,200
+2023-03-04,North America,Brazil,Product A,33,243
+2023-03-05,North America,Brazil,Product A,42,176
+2023-03-06,Asia,Germany,Product C,33,204
+2023-03-07,Europe,USA,Product B,20,283
+2023-03-08,South America,Brazil,Product D,17,179
+2023-03-09,North America,Japan,Product D,45,267
+2023-03-10,South America,Japan,Product C,47,66
+2023-03-11,Europe,Germany,Product C,49,153
+2023-03-12,Europe,Brazil,Product B,29,210
+2023-03-13,Europe,USA,Product D,44,186
+2023-03-14,North America,Japan,Product D,34,92
+2023-03-15,Europe,Brazil,Product D,44,295
+2023-03-16,North America,Brazil,Product A,34,225
+2023-03-17,Europe,Germany,Product D,38,88
+2023-03-18,South America,Japan,Product A,27,270
+2023-03-19,South America,Japan,Product B,27,219
+2023-03-20,Asia,USA,Product A,11,296
+2023-03-21,South America,Japan,Product B,44,75
+2023-03-22,Asia,USA,Product D,25,148
+2023-03-23,South America,Japan,Product D,45,99
+2023-03-24,North America,Germany,Product B,42,202
+2023-03-25,South America,Japan,Product C,13,201
+2023-03-26,Asia,USA,Product B,42,62
+2023-03-27,Asia,USA,Product C,23,109
+2023-03-28,Europe,Germany,Product A,30,299
+2023-03-29,North America,Japan,Product A,29,184
+2023-03-30,South America,Japan,Product A,17,106
+2023-03-31,Europe,Germany,Product D,16,85
+2023-04-01,South America,Japan,Product A,12,222
+2023-04-02,South America,Japan,Product C,26,69
+2023-04-03,Europe,USA,Product A,42,114
+2023-04-04,Europe,Japan,Product B,21,57
+2023-04-05,Europe,Japan,Product B,31,287
+2023-04-06,Europe,Germany,Product D,31,193
+2023-04-07,Europe,Germany,Product B,39,191
+2023-04-08,South America,Brazil,Product C,47,253
+2023-04-09,Europe,USA,Product A,47,164
+2023-04-10,North America,Japan,Product D,17,264
